@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+span , a{
+    display: inline-block;
+}
+img{
+    max-width: 100%;
+    vertical-align: middle;
+}
+.box{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   align-items: center;
+   margin: 0 10px;
+}
+.v{
+   padding: 0 5px; 
+   font-size: 20px;
+}
+.d{
+    font-size: 20px;
+    margin-right: 20px;
+    margin:  10px;
+}
+.li{
+    font-size: 20px;
+}
+.rasm{
+    border-radius: 50%;
+    border: 3px solid greenyellow;
+}
+.txt{
+    margin: 30px 0;
+}
+.big{
+    border: 2px solid gray;
+    width: 600px;
+}
+.txt1{
+    background-color: blueviolet;
+    
+}
+.text{
+    display: flex;
+    flex-wrap: wrap;
+}
+.yu{
+    padding: 0 5px;
+}
+.gul{
+    text-align: center;
+}
+.b{
+ 
+    font-size: 23px;
+}
+.links{
+    display: flex;
+    flex-wrap: wrap;
+}
+.dev{
+    color: white;
+    border-radius: 50%;
+}
+.ter1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.p1{
+    background-color: gray;
+    border-radius: 50%;
+    font-size: 19px;
+}
+.p2{
+    font-size: 20px;
+    background-color: gray;
+    border-radius: 50%;
+}
+.big1{
+    background-color: gray;
+}
+.big2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.big3{
+    margin: 10px;
+}
+.web{
+padding: 0 5px;
+}
+.web2{
+    margin: 8px 0;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.st{
+    border-bottom: 1px solid black;
+}
+.icon{
+ margin-right: 70px;
+}
+
+
